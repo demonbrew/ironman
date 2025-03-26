@@ -12,10 +12,10 @@ Inspiration and instructions came from [Adafruit Superhero Power Plant](https://
 - JST extension cable
 - 3xAAA battery pack with batteries
 - 2x laser-cut/etched acrylic in clear or white [files on Thingiverse](https://www.thingiverse.com/thing:157296)
-- [Circuit Python code](https://github.com/demonbrew/ironman/reactor.py)
+- [Circuit Python code](https://github.com/demonbrew/ironman/blob/main/reactor.py)
 
 This was before I had a 3D printer, so I found an online service that would print the design rather cheaply. The printout came out very clean, all I had to do was hand paint it and then assemble.
 
 Soldering was very straightforward with the Adafruit instructions. For the costume, I bought a thin sport type shirt - similar to how Tony looks when he's in the build shop. I even grew the rather intricate goatee as well. It turned out great, was a fun project to work on, and I got plenty of compliments on Halloween night.
 
-![Wall sconce torch completed](/assets/tony.jpg)
+![Wall sconce torch completed](/blob/main/assets/tony.JPG)
