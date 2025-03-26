@@ -18,4 +18,4 @@ This was before I had a 3D printer, so I found an online service that would prin
 
 Soldering was very straightforward with the Adafruit instructions. For the costume, I bought a thin sport type shirt - similar to how Tony looks when he's in the build shop. I even grew the rather intricate goatee as well. It turned out great, was a fun project to work on, and I got plenty of compliments on Halloween night.
 
-![Wall sconce torch completed](/blob/main/assets/tony.JPG)
+![Wall sconce torch completed](/assets/tony.JPG)
